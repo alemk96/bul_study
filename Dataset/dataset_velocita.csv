@@ -5046,17 +5046,17 @@ Gen2016Giu2016
 8,0Mbps640.0kbps
 ",Valled'Aosta,"
 Gen2016Giu2016
-",Ping,37ms,"1,4", ,"
-38ms
-",0%,1920,2016
+",Ping,0ms,0, ,"
+ms
+",0%,0,2016
 858,Vodafone,"SuperADSL
 ","
 8,0Mbps640.0kbps
 ",Valled'Aosta,"
 Gen2016Giu2016
-",Ping,0ms,0, ,"
-ms
-",0%,0,2016
+",Ping,37ms,"1,4", ,"
+38ms
+",0%,1920,2016
 859,Vodafone,"SuperADSL
 ","
 8,0Mbps640.0kbps
@@ -9235,17 +9235,17 @@ Gen2016Giu2016
 8,0Mbps640.0kbps
 ",Lombardia,"
 Gen2016Giu2016
-",Ping,0ms,0, ,"
-ms
-",0%,0,2016
+",Ping,32ms,"0,9", ,"
+33ms
+",0%,1440,2016
 1580,Vodafone,"SuperADSL
 ","
 8,0Mbps640.0kbps
 ",Lombardia,"
 Gen2016Giu2016
-",Ping,32ms,"0,9", ,"
-33ms
-",0%,1440,2016
+",Ping,0ms,0, ,"
+ms
+",0%,0,2016
 1581,Vodafone,"SuperADSL
 ","
 8,0Mbps640.0kbps
@@ -12263,17 +12263,17 @@ Gen2016Giu2016
 8,0Mbps640.0kbps
 ",Trentino-AltoAdige,"
 Gen2016Giu2016
-",Ping,48ms,"1,1", ,"
-49ms
-",0%,1920,2016
+",Ping,0ms,0, ,"
+ms
+",0%,0,2016
 2100,Vodafone,"SuperADSL
 ","
 8,0Mbps640.0kbps
 ",Trentino-AltoAdige,"
 Gen2016Giu2016
-",Ping,0ms,0, ,"
-ms
-",0%,0,2016
+",Ping,48ms,"1,1", ,"
+49ms
+",0%,1920,2016
 2101,Vodafone,"SuperADSL
 ","
 8,0Mbps640.0kbps
@@ -16545,17 +16545,17 @@ Gen2016Giu2016
 8,0Mbps640.0kbps
 ",Veneto,"
 Gen2016Giu2016
-",Ping,0ms,0, ,"
-ms
-",0%,0,2016
+",Ping,42ms,1, ,"
+43ms
+",0%,1920,2016
 2837,Vodafone,"SuperADSL
 ","
 8,0Mbps640.0kbps
 ",Veneto,"
 Gen2016Giu2016
-",Ping,42ms,1, ,"
-43ms
-",0%,1920,2016
+",Ping,0ms,0, ,"
+ms
+",0%,0,2016
 2838,Vodafone,"SuperADSL
 ","
 8,0Mbps640.0kbps
@@ -19966,17 +19966,17 @@ Gen2016Giu2016
 8,0Mbps640.0kbps
 ",Friuli-VeneziaGiulia,"
 Gen2016Giu2016
-",Ping,47ms,"0,6", ,"
-48ms
-",0%,100,2016
+",Ping,0ms,0, ,"
+ms
+",0%,0,2016
 3424,Vodafone,"SuperADSL
 ","
 8,0Mbps640.0kbps
 ",Friuli-VeneziaGiulia,"
 Gen2016Giu2016
-",Ping,0ms,0, ,"
-ms
-",0%,0,2016
+",Ping,47ms,"0,6", ,"
+48ms
+",0%,100,2016
 3425,Vodafone,"SuperADSL
 ","
 8,0Mbps640.0kbps
@@ -23817,17 +23817,17 @@ Gen2016Giu2016
 8,0Mbps640.0kbps
 ",Liguria,"
 Gen2016Giu2016
-",Ping,0ms,0, ,"
-ms
-",0%,0,2016
+",Ping,37ms,"0,7", ,"
+38ms
+",0%,1920,2016
 4086,Vodafone,"SuperADSL
 ","
 8,0Mbps640.0kbps
 ",Liguria,"
 Gen2016Giu2016
-",Ping,37ms,"0,7", ,"
-38ms
-",0%,1920,2016
+",Ping,0ms,0, ,"
+ms
+",0%,0,2016
 4087,Vodafone,"SuperADSL
 ","
 8,0Mbps640.0kbps
@@ -32706,17 +32706,17 @@ Gen2016Giu2016
 8,0Mbps640.0kbps
 ",Toscana,"
 Gen2016Giu2016
-",Ping,0ms,0, ,"
-ms
-",0%,0,2016
+",Ping,42ms,"0,7", ,"
+43ms
+",0%,1920,2016
 5612,Vodafone,"SuperADSL
 ","
 8,0Mbps640.0kbps
 ",Toscana,"
 Gen2016Giu2016
-",Ping,42ms,"0,7", ,"
-43ms
-",0%,1920,2016
+",Ping,0ms,0, ,"
+ms
+",0%,0,2016
 5613,Vodafone,"SuperADSL
 ","
 8,0Mbps640.0kbps
@@ -40092,17 +40092,17 @@ Gen2016Giu2016
 8,0Mbps640.0kbps
 ",Marche,"
 Gen2016Giu2016
-",Ping,0ms,0, ,"
-ms
-",0%,0,2016
+",Ping,56ms,"2,7", ,"
+59ms
+",0%,1920,2016
 6879,Vodafone,"SuperADSL
 ","
 8,0Mbps640.0kbps
 ",Marche,"
 Gen2016Giu2016
-",Ping,56ms,"2,7", ,"
-59ms
-",0%,1920,2016
+",Ping,0ms,0, ,"
+ms
+",0%,0,2016
 6880,Vodafone,"SuperADSL
 ","
 8,0Mbps640.0kbps
@@ -59101,17 +59101,17 @@ Gen2016Giu2016
 8,0Mbps640.0kbps
 ",Puglia,"
 Gen2016Giu2016
-",Ping,64ms,"7,1", ,"
-65ms
-",0%,1920,2016
+",Ping,0ms,0, ,"
+ms
+",0%,0,2016
 10138,Vodafone,"SuperADSL
 ","
 8,0Mbps640.0kbps
 ",Puglia,"
 Gen2016Giu2016
-",Ping,0ms,0, ,"
-ms
-",0%,0,2016
+",Ping,64ms,"7,1", ,"
+65ms
+",0%,1920,2016
 10139,Vodafone,"SuperADSL
 ","
 8,0Mbps640.0kbps
@@ -62265,17 +62265,17 @@ Gen2016Giu2016
 8,0Mbps640.0kbps
 ",Sicilia,"
 Gen2016Giu2016
-",Ping,62ms,"1,2", ,"
-64ms
-",0%,1920,2016
+",Ping,0ms,0, ,"
+ms
+",0%,0,2016
 10685,Vodafone,"SuperADSL
 ","
 8,0Mbps640.0kbps
 ",Sicilia,"
 Gen2016Giu2016
-",Ping,0ms,0, ,"
-ms
-",0%,0,2016
+",Ping,62ms,"1,2", ,"
+64ms
+",0%,1920,2016
 10686,Vodafone,"SuperADSL
 ","
 8,0Mbps640.0kbps
